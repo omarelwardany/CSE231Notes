@@ -94,7 +94,7 @@ System.out.println("Array size = " + myList.length);
 |Circle|
 |-|
 radius: double
-<u>staticField: type</u>
+<u>staticField: type</u> (underlined)
 `+`publicField: type
 `-`privateField: type
 |_____________________________________|
@@ -105,7 +105,7 @@ getPerimeter(): double
 setRadius(newRadius: double): void
 
 ### UML Object
-|<u>circle1: Circle</u>|
+|<u>circle1: Circle</u> (underlined)|
 |-|
 radius = 1.0
 
