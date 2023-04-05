@@ -249,13 +249,13 @@ public class Person {
 **Constructors**
 
 ```java
-public Integer(int value)
+public Integer(int value);
 
-public Integer(String s)
+public Integer(String s);
 
-public Double(double value)
+public Double(double value);
 
-public Double(String s)
+public Double(String s);
 ```
 
 **Constants**
